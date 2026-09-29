@@ -645,7 +645,7 @@
           },
           {
             "name": "pincushion-crit",
-            "description": "Run a Pincushion Crit on an explicitly requested URL using rendered evidence, at most three positioned AI findings, and…"
+            "description": "Run a Pincushion Crit on an explicitly requested URL using rendered desktop/mobile evidence, discovered navigation rout…"
           },
           {
             "name": "pincushion-implement",
